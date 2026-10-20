@@ -307,6 +307,6 @@ Released under the [MIT License](LICENSE). See `LICENSE` for details.
 **Chill Bros** · Team ID `VTU-QFF-HC-0147` · Tier `Online`
 · Built with ⚛️ Qiskit for the VTU-QFF Hackathon
 
-[⬆ Back to Top](#Chill Bros)
+[⬆ Back to Top](#chill-bros)
 
 </div>
